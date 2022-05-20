@@ -111,6 +111,42 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "larry",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "larry",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "larry",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "gago",
+      "species": "nanu",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
